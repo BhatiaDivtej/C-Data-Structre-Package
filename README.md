@@ -1,7 +1,4 @@
-# Assignment 4: Data Structures in C
-
-This is your starter code repo for Assignment 4. The assignment has two parts: [queue](queue/) and [vector](vector/).
-Please see the corresponding description on our website under [Assignments](https://course.ccs.neu.edu/cs3650sp23/hw.html).
+# Data Structures in C
 
 ## Makefile
 
